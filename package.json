@@ -1,0 +1,24 @@
+{
+  "name": "xyzshop",
+  "version": "1.0.0",
+  "description": "AGILE SCRUM XYZSHOP\r Trello : https://trello.com/b/stflXKOi/kanban-template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdwityoSP/xyzshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdwityoSP/xyzshop/issues"
+  },
+  "homepage": "https://github.com/AdwityoSP/xyzshop#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "^8.7.3",
+    "sequelize": "^6.21.2"
+  }
+}
